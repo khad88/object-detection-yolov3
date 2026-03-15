@@ -8,6 +8,4 @@ Vì file `yolov3.weights` quá lớn nên không được lưu trong repo. Bạn
 Sau đó đặt vào thư mục `yolo-coco/`:
 
 yolo-coco/
-├── yolov3.cfg
 ├── yolov3.weights ← đặt tại đây
-├── coco.names
